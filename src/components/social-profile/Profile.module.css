@@ -47,13 +47,14 @@
   justify-content: space-around;
 
   text-align: center;
-
-  background-color: #f3f6f9;
+  list-style: none;
 }
 
 .item {
   width: 33.3%;
   padding: 15px;
+
+  display: flex;
 }
 
 .item:not(:last-child) {
