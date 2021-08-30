@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import { Container, Title, List, ListItem, Span } from "components/statistics/Statistic"
+import { Container, Title, List, ListItem, Span } from "components/statistics/Statistic.module.css";
 
 
 const Statistics = ({ title, stats }) => {
